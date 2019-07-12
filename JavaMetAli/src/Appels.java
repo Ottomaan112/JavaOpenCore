@@ -1,8 +1,14 @@
-import java.util.Scanner;
-
 public class Appels {
     public static void main(String args[]) {
-        Scanner appels = new Scanner(System.in);
-        System.out.println(appels.nextLine());
+
+        int appels = 5;
+        if (appels < 10) {
+            System.out.println("Eet meer appels");
+        }
+         else {
+            System.out.println("Eet minder appels");
+        }
+        System.out.println(appels);
     }
+
 }
