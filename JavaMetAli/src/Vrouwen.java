@@ -6,7 +6,7 @@ public class Vrouwen {
         String mooievrouw4 = "Sena Tozlu";
         String mooievrouw5 = "Penelope Cruz";
 
-        if (mooievrouw1 == "Molly Jane") {
+        if (mooievrouw1 == "Penelope Cruz") {
             System.out.println(mooievrouw1);
         }
         else if(mooievrouw2 != "Nicole Sherzinger") {

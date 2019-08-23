@@ -9,7 +9,6 @@ public class Series {
         String c = serie3;
 
 
-
         if (serie1 == a){
             System.out.println("the flash");
         }
